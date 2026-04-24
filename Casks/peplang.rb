@@ -1,6 +1,6 @@
 cask "peplang" do
-  version "0.0.1"
-  sha256 "3520986501adaac064a9fdcf818d95c1c2aa4762a1ba799882408a22635119d6"
+  version "0.1.1"
+  sha256 "db7102b56da24ffcbe03d3daf7fdd76c5f41fbbc918e173549778f3e29c51d60"
 
   # DMG is served by the Go API on api.custo.bot from its storage/images/
   # dir (an already-public static route; no router change needed).
